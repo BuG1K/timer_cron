@@ -1,0 +1,866 @@
+[
+  {
+    "id": "19313008",
+    "league": "Киберхоккей. NHL. United Esports Leagues-2.",
+    "time": "13:35",
+    "teams": "Каролина Харрикейнз (ENJOOOY) - Эдмонтон Ойлерз (PUCK)",
+    "team1": "Каролина Харрикейнз",
+    "gamer1": "ENJOOOY",
+    "team2": "Эдмонтон Ойлерз",
+    "gamer2": "PUCK",
+    "status": {
+      "score": "1:0",
+      "period1": "0:0",
+      "period2": "1:0",
+      "period3": "0:0",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "1:0 (0:0, 1:0, 0:0)"
+    },
+    "goals": [],
+    "finished": true
+  },
+  {
+    "id": "19312959",
+    "league": "Киберхоккей. NHL. United Esports Leagues.",
+    "time": "13:35",
+    "teams": "Нью-Йорк Айлендерс (Iceman) - Нью-Джерси Девилз (Lovelas)",
+    "team1": "Нью-Йорк Айлендерс",
+    "gamer1": "Iceman",
+    "team2": "Нью-Джерси Девилз",
+    "gamer2": "Lovelas",
+    "status": {
+      "score": "6:2",
+      "period1": "3:1",
+      "period2": "1:0",
+      "period3": "2:1",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "6:2 (3:1, 1:0, 2:1)"
+    },
+    "goals": [],
+    "finished": true
+  },
+  {
+    "id": "19313117",
+    "league": "Киберхоккей. NHL. Ovi League.",
+    "time": "13:35",
+    "teams": "Смолянинов (RNK) - Звездин (ZVZ)",
+    "team1": "Смолянинов",
+    "gamer1": "RNK",
+    "team2": "Звездин",
+    "gamer2": "ZVZ",
+    "status": {
+      "score": "2:2",
+      "period1": "2:0",
+      "period2": "0:1",
+      "period3": "0:1",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "2:2 (2:0, 0:1, 0:1)"
+    },
+    "goals": [],
+    "finished": true
+  },
+  {
+    "id": "19312869",
+    "league": "Киберхоккей. NHL. H2H LIGA.",
+    "time": "13:35",
+    "teams": "Сан-Хосе Шаркс (GARAGE10) - Анахайм Дакс (SNEGY)",
+    "team1": "Сан-Хосе Шаркс",
+    "gamer1": "GARAGE10",
+    "team2": "Анахайм Дакс",
+    "gamer2": "SNEGY",
+    "status": {
+      "score": "7:2",
+      "period1": "3:0",
+      "period2": "0:0",
+      "period3": "4:2",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "7:2 (3:0, 0:0, 4:2)"
+    },
+    "goals": [],
+    "finished": true
+  },
+  {
+    "id": "19333824",
+    "league": "Киберхоккей. NHL. High Cup.",
+    "time": "13:30",
+    "teams": "Торсунов - Галлямов",
+    "team1": "Торсунов",
+    "gamer1": null,
+    "team2": "Галлямов",
+    "gamer2": null,
+    "status": {
+      "score": "6:5",
+      "period1": "3:2",
+      "period2": "3:1",
+      "period3": "0:2",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "6:5 (3:2, 3:1, 0:2)"
+    },
+    "goals": [],
+    "finished": true
+  },
+  {
+    "id": "19312909",
+    "league": "Киберхоккей. NHL. H2H LIGA-2.",
+    "time": "13:45",
+    "teams": "Сент-Луис Блюз (SHARK) - Вегас Голден Найтс (GoRoX)",
+    "team1": "Сент-Луис Блюз",
+    "gamer1": "SHARK",
+    "team2": "Вегас Голден Найтс",
+    "gamer2": "GoRoX",
+    "status": {
+      "score": "5:2",
+      "period1": "1:1",
+      "period2": "1:1",
+      "period3": "3:0",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "5:2 (1:1, 1:1, 3:0)"
+    },
+    "goals": [
+      {
+        "minute": 53,
+        "team": "Сент-Луис Блюз"
+      },
+      {
+        "minute": 59,
+        "team": "Сент-Луис Блюз"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19313042",
+    "league": "Киберхоккей. NHL. United Esports Leagues-3.",
+    "time": "13:45",
+    "teams": "Анахайм Дакс (Soukyn) - Колорадо Эвеланш (Tomulus)",
+    "team1": "Анахайм Дакс",
+    "gamer1": "Soukyn",
+    "team2": "Колорадо Эвеланш",
+    "gamer2": "Tomulus",
+    "status": {
+      "score": "1:6",
+      "period1": "0:1",
+      "period2": "1:3",
+      "period3": "0:2",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "1:6 (0:1, 1:3, 0:2)"
+    },
+    "goals": [],
+    "finished": true
+  },
+  {
+    "id": "19333825",
+    "league": "Киберхоккей. NHL. High Cup.",
+    "time": "13:45",
+    "teams": "Мустаев - Ханнанов",
+    "team1": "Мустаев",
+    "gamer1": null,
+    "team2": "Ханнанов",
+    "gamer2": null,
+    "status": {
+      "score": "4:8",
+      "period1": "2:2",
+      "period2": "1:5",
+      "period3": "1:1",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "4:8 (2:2, 1:5, 1:1)"
+    },
+    "goals": [
+      {
+        "minute": 60,
+        "team": "Мустаев"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19312853",
+    "league": "Киберхоккей. NHL. H2H LIGA.",
+    "time": "14:00",
+    "teams": "Анахайм Дакс (SNEGY) - Оттава Сенаторз (WERD)",
+    "team1": "Анахайм Дакс",
+    "gamer1": "SNEGY",
+    "team2": "Оттава Сенаторз",
+    "gamer2": "WERD",
+    "status": {
+      "score": "5:1",
+      "period1": "1:0",
+      "period2": "2:1",
+      "period3": "2:0",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "5:1 (1:0, 2:1, 2:0)"
+    },
+    "goals": [
+      {
+        "minute": 19,
+        "team": "Анахайм Дакс"
+      },
+      {
+        "minute": 30,
+        "team": "Оттава Сенаторз"
+      },
+      {
+        "minute": 38,
+        "team": "Анахайм Дакс"
+      },
+      {
+        "minute": 38,
+        "team": "Анахайм Дакс"
+      },
+      {
+        "minute": 50,
+        "team": "Анахайм Дакс"
+      },
+      {
+        "minute": 60,
+        "team": "Анахайм Дакс"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19312960",
+    "league": "Киберхоккей. NHL. United Esports Leagues.",
+    "time": "14:00",
+    "teams": "Нью-Джерси Девилз (Lovelas) - Каролина Харрикейнз (KHAN)",
+    "team1": "Нью-Джерси Девилз",
+    "gamer1": "Lovelas",
+    "team2": "Каролина Харрикейнз",
+    "gamer2": "KHAN",
+    "status": {
+      "score": "5:2",
+      "period1": "3:0",
+      "period2": "1:0",
+      "period3": "1:2",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "5:2 (3:0, 1:0, 1:2)"
+    },
+    "goals": [
+      {
+        "minute": 5,
+        "team": "Нью-Джерси Девилз"
+      },
+      {
+        "minute": 9,
+        "team": "Нью-Джерси Девилз"
+      },
+      {
+        "minute": 9,
+        "team": "Нью-Джерси Девилз"
+      },
+      {
+        "minute": 28,
+        "team": "Нью-Джерси Девилз"
+      },
+      {
+        "minute": 47,
+        "team": "Нью-Джерси Девилз"
+      },
+      {
+        "minute": 51,
+        "team": "Каролина Харрикейнз"
+      },
+      {
+        "minute": 59,
+        "team": "Каролина Харрикейнз"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19313023",
+    "league": "Киберхоккей. NHL. United Esports Leagues-2.",
+    "time": "14:00",
+    "teams": "Калгари Флэймз (PRO100RAK) - Эдмонтон Ойлерз (PUCK)",
+    "team1": "Калгари Флэймз",
+    "gamer1": "PRO100RAK",
+    "team2": "Эдмонтон Ойлерз",
+    "gamer2": "PUCK",
+    "status": {
+      "score": "4:1",
+      "period1": "0:0",
+      "period2": "1:0",
+      "period3": "3:1",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "4:1 (0:0, 1:0, 3:1)"
+    },
+    "goals": [
+      {
+        "minute": 36,
+        "team": "Калгари Флэймз"
+      },
+      {
+        "minute": 43,
+        "team": "Эдмонтон Ойлерз"
+      },
+      {
+        "minute": 51,
+        "team": "Калгари Флэймз"
+      },
+      {
+        "minute": 59,
+        "team": "Калгари Флэймз"
+      },
+      {
+        "minute": 59,
+        "team": "Калгари Флэймз"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19333826",
+    "league": "Киберхоккей. NHL. High Cup.",
+    "time": "14:00",
+    "teams": "Литвак - Торсунов",
+    "team1": "Литвак",
+    "gamer1": null,
+    "team2": "Торсунов",
+    "gamer2": null,
+    "status": {
+      "score": "1:2",
+      "period1": "0:1",
+      "period2": "1:0",
+      "period3": "0:1",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "1:2 (0:1, 1:0, 0:1)"
+    },
+    "goals": [
+      {
+        "minute": 11,
+        "team": "Торсунов"
+      },
+      {
+        "minute": 37,
+        "team": "Литвак"
+      },
+      {
+        "minute": 48,
+        "team": "Торсунов"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19313109",
+    "league": "Киберхоккей. NHL. Ovi League.",
+    "time": "14:05",
+    "teams": "Белов (L2P) - Капустенко (K21)",
+    "team1": "Белов",
+    "gamer1": "L2P",
+    "team2": "Капустенко",
+    "gamer2": "K21",
+    "status": {
+      "score": "5:1",
+      "period1": "3:0",
+      "period2": "2:0",
+      "period3": "0:1",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "5:1 (3:0, 2:0, 0:1)"
+    },
+    "goals": [
+      {
+        "minute": 3,
+        "team": "Белов"
+      },
+      {
+        "minute": 11,
+        "team": "Белов"
+      },
+      {
+        "minute": 15,
+        "team": "Белов"
+      },
+      {
+        "minute": 22,
+        "team": "Белов"
+      },
+      {
+        "minute": 38,
+        "team": "Белов"
+      },
+      {
+        "minute": 47,
+        "team": "Капустенко"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19313041",
+    "league": "Киберхоккей. NHL. United Esports Leagues-3.",
+    "time": "14:10",
+    "teams": "Нью-Джерси Девилз (LunJJ) - Колорадо Эвеланш (Tomulus)",
+    "team1": "Нью-Джерси Девилз",
+    "gamer1": "LunJJ",
+    "team2": "Колорадо Эвеланш",
+    "gamer2": "Tomulus",
+    "status": {
+      "score": "1:4",
+      "period1": "0:1",
+      "period2": "0:1",
+      "period3": "1:2",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "1:4 (0:1, 0:1, 1:2)"
+    },
+    "goals": [
+      {
+        "minute": 15,
+        "team": "Колорадо Эвеланш"
+      },
+      {
+        "minute": 29,
+        "team": "Колорадо Эвеланш"
+      },
+      {
+        "minute": 45,
+        "team": "Нью-Джерси Девилз"
+      },
+      {
+        "minute": 52,
+        "team": "Колорадо Эвеланш"
+      },
+      {
+        "minute": 58,
+        "team": "Колорадо Эвеланш"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19312892",
+    "league": "Киберхоккей. NHL. H2H LIGA-2.",
+    "time": "14:10",
+    "teams": "Вегас Голден Найтс (GoRoX) - Торонто Мейпл Лифс (W1NCHESTER)",
+    "team1": "Вегас Голден Найтс",
+    "gamer1": "GoRoX",
+    "team2": "Торонто Мейпл Лифс",
+    "gamer2": "W1NCHESTER",
+    "status": {
+      "score": "4:4",
+      "period1": "3:2",
+      "period2": "1:2",
+      "period3": "0:0",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "4:4 (3:2, 1:2, 0:0)"
+    },
+    "goals": [
+      {
+        "minute": 7,
+        "team": "Торонто Мейпл Лифс"
+      },
+      {
+        "minute": 10,
+        "team": "Торонто Мейпл Лифс"
+      },
+      {
+        "minute": 13,
+        "team": "Вегас Голден Найтс"
+      },
+      {
+        "minute": 18,
+        "team": "Вегас Голден Найтс"
+      },
+      {
+        "minute": 19,
+        "team": "Вегас Голден Найтс"
+      },
+      {
+        "minute": 26,
+        "team": "Торонто Мейпл Лифс"
+      },
+      {
+        "minute": 27,
+        "team": "Вегас Голден Найтс"
+      },
+      {
+        "minute": 40,
+        "team": "Торонто Мейпл Лифс"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19333827",
+    "league": "Киберхоккей. NHL. High Cup.",
+    "time": "14:15",
+    "teams": "Галлямов - Ханнанов",
+    "team1": "Галлямов",
+    "gamer1": null,
+    "team2": "Ханнанов",
+    "gamer2": null,
+    "status": {
+      "score": "2:1",
+      "period1": "0:0",
+      "period2": "1:0",
+      "period3": "1:1",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "2:1 (0:0, 1:0, 1:1)"
+    },
+    "goals": [
+      {
+        "minute": 32,
+        "team": "Галлямов"
+      },
+      {
+        "minute": 49,
+        "team": "Галлямов"
+      },
+      {
+        "minute": 52,
+        "team": "Ханнанов"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19313024",
+    "league": "Киберхоккей. NHL. United Esports Leagues-2.",
+    "time": "14:25",
+    "teams": "Даллас Старз (KARIM) - Каролина Харрикейнз (ENJOOOY)",
+    "team1": "Даллас Старз",
+    "gamer1": "KARIM",
+    "team2": "Каролина Харрикейнз",
+    "gamer2": "ENJOOOY",
+    "status": {
+      "score": "1:4",
+      "period1": "0:2",
+      "period2": "1:0",
+      "period3": "0:2",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "1:4 (0:2, 1:0, 0:2)"
+    },
+    "goals": [
+      {
+        "minute": 7,
+        "team": "Каролина Харрикейнз"
+      },
+      {
+        "minute": 7,
+        "team": "Каролина Харрикейнз"
+      },
+      {
+        "minute": 33,
+        "team": "Даллас Старз"
+      },
+      {
+        "minute": 48,
+        "team": "Каролина Харрикейнз"
+      },
+      {
+        "minute": 59,
+        "team": "Каролина Харрикейнз"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19312961",
+    "league": "Киберхоккей. NHL. United Esports Leagues.",
+    "time": "14:25",
+    "teams": "Нью-Йорк Айлендерс (Iceman) - Оттава Сенаторз (M1CHELIN)",
+    "team1": "Нью-Йорк Айлендерс",
+    "gamer1": "Iceman",
+    "team2": "Оттава Сенаторз",
+    "gamer2": "M1CHELIN",
+    "status": {
+      "score": "5:4",
+      "period1": "0:0",
+      "period2": "3:3",
+      "period3": "2:1",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "5:4 (0:0, 3:3, 2:1)"
+    },
+    "goals": [
+      {
+        "minute": 23,
+        "team": "Нью-Йорк Айлендерс"
+      },
+      {
+        "minute": 28,
+        "team": "Оттава Сенаторз"
+      },
+      {
+        "minute": 32,
+        "team": "Оттава Сенаторз"
+      },
+      {
+        "minute": 34,
+        "team": "Нью-Йорк Айлендерс"
+      },
+      {
+        "minute": 37,
+        "team": "Нью-Йорк Айлендерс"
+      },
+      {
+        "minute": 37,
+        "team": "Оттава Сенаторз"
+      },
+      {
+        "minute": 59,
+        "team": "Нью-Йорк Айлендерс"
+      },
+      {
+        "minute": 59,
+        "team": "Оттава Сенаторз"
+      },
+      {
+        "minute": 60,
+        "team": "Нью-Йорк Айлендерс"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19312850",
+    "league": "Киберхоккей. NHL. H2H LIGA.",
+    "time": "14:25",
+    "teams": "Ванкувер Кэнакс (ARM_AVA23) - Сан-Хосе Шаркс (GARAGE10)",
+    "team1": "Ванкувер Кэнакс",
+    "gamer1": "ARM_AVA23",
+    "team2": "Сан-Хосе Шаркс",
+    "gamer2": "GARAGE10",
+    "status": {
+      "score": "8:4",
+      "period1": "0:3",
+      "period2": "4:0",
+      "period3": "4:1",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "8:4 (0:3, 4:0, 4:1)"
+    },
+    "goals": [
+      {
+        "minute": 9,
+        "team": "Сан-Хосе Шаркс"
+      },
+      {
+        "minute": 14,
+        "team": "Сан-Хосе Шаркс"
+      },
+      {
+        "minute": 18,
+        "team": "Сан-Хосе Шаркс"
+      },
+      {
+        "minute": 23,
+        "team": "Ванкувер Кэнакс"
+      },
+      {
+        "minute": 26,
+        "team": "Ванкувер Кэнакс"
+      },
+      {
+        "minute": 34,
+        "team": "Ванкувер Кэнакс"
+      },
+      {
+        "minute": 40,
+        "team": "Ванкувер Кэнакс"
+      },
+      {
+        "minute": 43,
+        "team": "Ванкувер Кэнакс"
+      },
+      {
+        "minute": 45,
+        "team": "Ванкувер Кэнакс"
+      },
+      {
+        "minute": 50,
+        "team": "Ванкувер Кэнакс"
+      },
+      {
+        "minute": 59,
+        "team": "Ванкувер Кэнакс"
+      },
+      {
+        "minute": 59,
+        "team": "Сан-Хосе Шаркс"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19333828",
+    "league": "Киберхоккей. NHL. High Cup.",
+    "time": "14:30",
+    "teams": "Мустаев - Литвак",
+    "team1": "Мустаев",
+    "gamer1": null,
+    "team2": "Литвак",
+    "gamer2": null,
+    "status": {
+      "score": "2:2",
+      "period1": "1:1",
+      "period2": "1:1",
+      "period3": "0:0",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "2:2 (1:1, 1:1, 0:0)"
+    },
+    "goals": [
+      {
+        "minute": 5,
+        "team": "Литвак"
+      },
+      {
+        "minute": 7,
+        "team": "Мустаев"
+      },
+      {
+        "minute": 26,
+        "team": "Мустаев"
+      },
+      {
+        "minute": 26,
+        "team": "Литвак"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19312904",
+    "league": "Киберхоккей. NHL. H2H LIGA-2.",
+    "time": "14:35",
+    "teams": "Чикаго Блэкхокс (AZARENBL4) - Сент-Луис Блюз (SHARK)",
+    "team1": "Чикаго Блэкхокс",
+    "gamer1": "AZARENBL4",
+    "team2": "Сент-Луис Блюз",
+    "gamer2": "SHARK",
+    "status": {
+      "score": "2:4",
+      "period1": "0:0",
+      "period2": "0:1",
+      "period3": "2:3",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "2:4 (0:0, 0:1, 2:3)"
+    },
+    "goals": [
+      {
+        "minute": 26,
+        "team": "Сент-Луис Блюз"
+      },
+      {
+        "minute": 43,
+        "team": "Сент-Луис Блюз"
+      },
+      {
+        "minute": 47,
+        "team": "Сент-Луис Блюз"
+      },
+      {
+        "minute": 54,
+        "team": "Чикаго Блэкхокс"
+      },
+      {
+        "minute": 59,
+        "team": "Сент-Луис Блюз"
+      },
+      {
+        "minute": 59,
+        "team": "Чикаго Блэкхокс"
+      }
+    ],
+    "finished": true
+  },
+  {
+    "id": "19313054",
+    "league": "Киберхоккей. NHL. United Esports Leagues-3.",
+    "time": "14:35",
+    "teams": "Каролина Харрикейнз (Bohem) - Анахайм Дакс (Soukyn)",
+    "team1": "Каролина Харрикейнз",
+    "gamer1": "Bohem",
+    "team2": "Анахайм Дакс",
+    "gamer2": "Soukyn",
+    "status": {
+      "score": "5:4",
+      "period1": "3:2",
+      "period2": "2:0",
+      "period3": "0:2",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "5:4 (3:2, 2:0, 0:2)"
+    },
+    "goals": [
+      {
+        "minute": 6,
+        "team": "Каролина Харрикейнз"
+      },
+      {
+        "minute": 6,
+        "team": "Анахайм Дакс"
+      },
+      {
+        "minute": 10,
+        "team": "Каролина Харрикейнз"
+      },
+      {
+        "minute": 14,
+        "team": "Анахайм Дакс"
+      },
+      {
+        "minute": 17,
+        "team": "Каролина Харрикейнз"
+      },
+      {
+        "minute": 26,
+        "team": "Каролина Харрикейнз"
+      },
+      {
+        "minute": 38,
+        "team": "Каролина Харрикейнз"
+      },
+      {
+        "minute": 43,
+        "team": "Анахайм Дакс"
+      },
+      {
+        "minute": 51,
+        "team": "Анахайм Дакс"
+      }
+    ],
+    "finished": true
+  }
+]
