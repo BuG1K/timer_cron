@@ -862,5 +862,49 @@
       }
     ],
     "finished": true
+  },
+  {
+    "id": "19312887",
+    "league": "Киберхоккей. NHL. H2H LIGA-2.",
+    "time": "15:00",
+    "teams": "Торонто Мейпл Лифс (W1NCHESTER) - Сент-Луис Блюз (SHARK)",
+    "team1": "Торонто Мейпл Лифс",
+    "gamer1": "W1NCHESTER",
+    "team2": "Сент-Луис Блюз",
+    "gamer2": "SHARK",
+    "status": {
+      "score": "1:2",
+      "period1": "0:0",
+      "period2": "0:1",
+      "period3": "1:1",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "1:2 (0:0, 0:1, 1:1)"
+    },
+    "goals": [],
+    "finished": true
+  },
+  {
+    "id": "19313053",
+    "league": "Киберхоккей. NHL. United Esports Leagues-3.",
+    "time": "15:00",
+    "teams": "Анахайм Дакс (Soukyn) - Нью-Джерси Девилз (LunJJ)",
+    "team1": "Анахайм Дакс",
+    "gamer1": "Soukyn",
+    "team2": "Нью-Джерси Девилз",
+    "gamer2": "LunJJ",
+    "status": {
+      "score": "6:2",
+      "period1": "1:0",
+      "period2": "3:2",
+      "period3": "2:0",
+      "periodNow": null,
+      "minute": null,
+      "finished": false,
+      "raw": "6:2 (1:0, 3:2, 2:0)"
+    },
+    "goals": [],
+    "finished": true
   }
 ]

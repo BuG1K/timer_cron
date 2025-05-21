@@ -12,32 +12,11 @@
       "score": "2:1",
       "period1": "1:0",
       "period2": "1:1",
-      "period3": null,
-      "periodNow": 2,
-      "minute": 35,
+      "period3": "0:0",
+      "periodNow": 3,
+      "minute": 42,
       "finished": false,
-      "raw": "2:1 (1:0) 2-й период  35 мин."
-    },
-    "goals": []
-  },
-  {
-    "id": "19312887",
-    "league": "Киберхоккей. NHL. H2H LIGA-2.",
-    "time": "15:00",
-    "teams": "Торонто Мейпл Лифс (W1NCHESTER) - Сент-Луис Блюз (SHARK)",
-    "team1": "Торонто Мейпл Лифс",
-    "gamer1": "W1NCHESTER",
-    "team2": "Сент-Луис Блюз",
-    "gamer2": "SHARK",
-    "status": {
-      "score": "1:2",
-      "period1": "0:0",
-      "period2": "0:1",
-      "period3": "1:1",
-      "periodNow": null,
-      "minute": null,
-      "finished": false,
-      "raw": "1:2 (0:0, 0:1, 1:1)"
+      "raw": "2:1 (1:0, 1:1) 3-й период  42 мин."
     },
     "goals": []
   },
@@ -56,9 +35,9 @@
       "period2": "0:0",
       "period3": "0:0",
       "periodNow": 1,
-      "minute": 2,
+      "minute": 16,
       "finished": false,
-      "raw": "0:0 1-й период  2 мин."
+      "raw": "0:0 1-й период  16 мин."
     },
     "goals": []
   },
@@ -93,19 +72,27 @@
     "team2": "Мустаев",
     "gamer2": null,
     "status": {
-      "score": "1:4",
+      "score": "3:4",
       "period1": "1:3",
       "period2": "0:1",
-      "period3": null,
-      "periodNow": 2,
-      "minute": 38,
+      "period3": "2:0",
+      "periodNow": 3,
+      "minute": 46,
       "finished": false,
-      "raw": "1:4 (1:3) 2-й период  38 мин."
+      "raw": "3:4 (1:3, 0:1) 3-й период  46 мин."
     },
     "goals": [
       {
         "minute": 38,
         "team": "Мустаев"
+      },
+      {
+        "minute": 43,
+        "team": "Торсунов"
+      },
+      {
+        "minute": 46,
+        "team": "Торсунов"
       }
     ]
   },
@@ -144,10 +131,10 @@
       "period1": "0:1",
       "period2": "2:0",
       "period3": "1:2",
-      "periodNow": 3,
-      "minute": 56,
-      "finished": false,
-      "raw": "3:3 (0:1, 2:0) 3-й период  56 мин. [Финал]"
+      "periodNow": null,
+      "minute": 60,
+      "finished": true,
+      "raw": "3:3 (0:1, 2:0, 1:2) Матч завершен  60 мин. [Финал]"
     },
     "goals": []
   },
@@ -161,16 +148,25 @@
     "team2": "Нью-Джерси Девилз",
     "gamer2": "Lovelas",
     "status": {
-      "score": "0:1",
+      "score": "0:3",
       "period1": "0:0",
-      "period2": "0:1",
-      "period3": null,
-      "periodNow": 2,
-      "minute": 35,
+      "period2": "0:2",
+      "period3": "0:1",
+      "periodNow": 3,
+      "minute": 46,
       "finished": false,
-      "raw": "0:1 (0:0) 2-й период  35 мин."
+      "raw": "0:3 (0:0, 0:2) 3-й период  46 мин."
     },
-    "goals": []
+    "goals": [
+      {
+        "minute": 39,
+        "team": "Нью-Джерси Девилз"
+      },
+      {
+        "minute": 46,
+        "team": "Нью-Джерси Девилз"
+      }
+    ]
   },
   {
     "id": "19313026",
@@ -187,9 +183,9 @@
       "period2": "2:0",
       "period3": "0:1",
       "periodNow": 3,
-      "minute": 43,
+      "minute": 55,
       "finished": false,
-      "raw": "2:1 (0:0, 2:0) 3-й период  43 мин."
+      "raw": "2:1 (0:0, 2:0) 3-й период  55 мин."
     },
     "goals": [
       {
@@ -197,27 +193,6 @@
         "team": "Эдмонтон Ойлерз"
       }
     ]
-  },
-  {
-    "id": "19313053",
-    "league": "Киберхоккей. NHL. United Esports Leagues-3.",
-    "time": "15:00",
-    "teams": "Анахайм Дакс (Soukyn) - Нью-Джерси Девилз (LunJJ)",
-    "team1": "Анахайм Дакс",
-    "gamer1": "Soukyn",
-    "team2": "Нью-Джерси Девилз",
-    "gamer2": "LunJJ",
-    "status": {
-      "score": "6:2",
-      "period1": "1:0",
-      "period2": "3:2",
-      "period3": "2:0",
-      "periodNow": null,
-      "minute": null,
-      "finished": false,
-      "raw": "6:2 (1:0, 3:2, 2:0)"
-    },
-    "goals": []
   },
   {
     "id": "19313040",
@@ -229,15 +204,20 @@
     "team2": "Колорадо Эвеланш",
     "gamer2": "Tomulus",
     "status": {
-      "score": "0:0",
-      "period1": "0:0",
+      "score": "1:0",
+      "period1": "1:0",
       "period2": "0:0",
       "period3": "0:0",
       "periodNow": 1,
-      "minute": 2,
+      "minute": 14,
       "finished": false,
-      "raw": "0:0 1-й период  2 мин."
+      "raw": "1:0 1-й период  14 мин."
     },
-    "goals": []
+    "goals": [
+      {
+        "minute": 14,
+        "team": "Каролина Харрикейнз"
+      }
+    ]
   }
 ]
